@@ -1,2 +1,17 @@
-# my-mac-os
-List of apps, tools, extensions and other utilities I use for everyday use, web development, design.
+# My macOS setup for everyday use, web dev and creative work
+
+# Productivity
+* 
+*
+
+# Extensions
+*
+*
+
+# Development
+*
+*
+
+# Others
+*
+*
