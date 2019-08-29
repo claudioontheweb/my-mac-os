@@ -9,8 +9,10 @@
 *
 
 # Development
-*
-*
+* VS Code -> IDE
+* iTerm -> Terminal Emulator
+* Paw -> REST Client
+* StarUML -> UML Diagram
 
 # Others
 *
