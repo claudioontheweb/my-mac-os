@@ -13,6 +13,7 @@
 * iTerm -> Terminal Emulator
 * Paw -> REST Client
 * StarUML -> UML Diagram
+* VimR -> NeoVim with additional features
 
 # Others
 *
